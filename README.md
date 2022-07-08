@@ -39,3 +39,10 @@ Continuing to debug code to find pore size. Made some diagrams that may be helpf
 
 July 6 
 Finished debugging pore size code. Approximation and binarization are now within ~400 pixels per area of each other. Made a quick program to show if they are similar–called “checkmatrices.m” Made some diagrams and a quick summary of my 2D approximations, one with spheres and one with binarization. 
+
+July 7 
+Finished 3D pore size code (the approximation version). Creates a histogram and everything!! I started on the binarization version (the more accurate one). 
+
+July 8
+Continued binarization code. Optimizing to make it take less time to run (I got it down from ~43 hours to 50 minutes, but… its still gonna need some work.) Also, I’m debugging it… since it doesn’t match the approximation code. Llooll. 
+
